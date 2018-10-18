@@ -16,12 +16,12 @@ def initialize(job)
  @job = job
 end
 
-def breed
- @breed
+def job
+ @job
 end
 
-def breed = (new_breed)
-  @breed = new_breed
+def job = (new_breed)
+  @job = new_breed
 end
 
 end
