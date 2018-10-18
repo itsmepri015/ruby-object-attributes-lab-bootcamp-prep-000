@@ -20,8 +20,8 @@ def job
  @job
 end
 
-def job = (new_breed)
-  @job = new_breed
+def job = (new_job)
+  @job = new_job
 end
 
 end
