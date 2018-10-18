@@ -21,7 +21,7 @@ def breed
 end
 
 def breed = (new_breed)
-  @brred = new_breed
+  @breed = new_breed
 end
 
 end
